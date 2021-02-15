@@ -8,7 +8,7 @@ import PostComments from './PostComments.jsx';
 
 function App() {
   return (
-    <div className="h-screen bg-black bg-opacity-90">
+    <div className="h-screen bg-black bg-opacity-95">
       <div className="bg-white flex flex-col max-w-5xl mx-auto rounded-xl cursor-pointer">
         <PostHeader />
         <PostBody />

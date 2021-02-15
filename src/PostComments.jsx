@@ -12,7 +12,7 @@ function PostActionBar() {
         </div>
         <div className="flex">
           <div className="bg-gray-500 flex-grow rounded-2xl ml-3 cursor-pointer text-white text-xl p-2">
-            <p className="text-xs">Scrivi un commento...</p>
+            <p className="text-xs">Write a comment...</p>
           </div>
         </div>
       </div>

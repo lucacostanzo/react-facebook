@@ -12,7 +12,7 @@ function PostHeader() {
       <div class=" mx-4 flex-grow mt-1">
         <div class="text-lg font-semibold text-white">Giovanni Palestrato</div>
         <span class="text-gray-400 text-xs flex-grow font-normal">
-          9 febbraio alle ore 16:20
+          9 febbraio alle ore 16:25
         </span>
       </div>
       <div className="flex mr-4">
