@@ -112,7 +112,7 @@ function PostComments() {
         </div>
         <div className="bg-gray-500 flex  rounded-2xl ml-3 text-white text-xl w-full p-2">
           <div className="flex-grow">
-            <p className="text-sm ml-2">Write a comment... </p>
+            <p className="text-sm ml-2">Write a comment ... </p>
           </div>
           <div className="flex">
             <svg
