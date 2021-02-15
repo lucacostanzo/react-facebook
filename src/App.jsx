@@ -10,10 +10,10 @@ function App() {
   return (
     <div className="h-screen bg-black bg-opacity-90">
       <div className="bg-white flex flex-col max-w-5xl mx-auto rounded-xl cursor-pointer">
-        <PostHeader></PostHeader>
-        <PostBody></PostBody>
-        <PostActionBar></PostActionBar>
-        <PostComments></PostComments>
+        <PostHeader />
+        <PostBody />
+        <PostActionBar />
+        <PostComments />
       </div>
     </div>
   );
