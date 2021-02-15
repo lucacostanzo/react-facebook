@@ -4,9 +4,9 @@ function PostActionBar() {
   return (
     <div>
       <div className="bg-black bg-opacity-80 py-3 flex">
-        <div className="flex items-center justify-between">
+        <div className="flex flex-grow items-center justify-between px-4">
           <svg
-            class="h-4 w-4 text-gray-400 ml-3 mt-2"
+            class="h-4 w-4 text-gray-400 mt-2"
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
             viewBox="0 0 24 24"
@@ -32,6 +32,7 @@ function PostActionBar() {
             />
           </svg>
           <p className="text-gray-300 ml-1 mt-2 text-xs"> 10 </p>
+          <div className="flex-grow"></div>
           <p className="text-gray-300 ml-1 mt-2 text-xs"> Commenti: 45 </p>
         </div>
       </div>
